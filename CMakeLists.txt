@@ -1,12 +1,20 @@
 cmake_minimum_required(VERSION 3.10)
-project(WebAgent)
+project(WEB-AGENT)
 
-set(CMAKE_CXX_STANDARD 17)
-set(CMAKE_CXX_STANDARD_REQUIRED ON)
+# Указываем компилятору искать заголовочные файлы в текущей директории
+include_directories(${CMAKE_CURRENT_SOURCE_DIR})
 
-find_package(CURL REQUIRED)
+# Добавляем зависимость на nlohmann/json (если используете)
+find_package(nlohmann_json REQUIRED)
+include_directories(lib/inih)
 
-add_executable(web_agent src/agent.cpp)
+# Исходные файлы проекта
+set(SOURCES
+    src/agent.cpp
+    lib/inih/ini.c
+)
 
-target_link_libraries(web_agent ${CURL_LIBRARIES} pthread)
-target_include_directories(web_agent PRIVATE ${CURL_INCLUDE_DIRS})
+add_executable(web_agent ${SOURCES})
+
+# Связываем с библиотекой nlohmann_json
+target_link_libraries(web_agent nlohmann_json::nlohmann_json)

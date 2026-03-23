@@ -1,0 +1,540 @@
+[2026-03-23 11:29:56] [info] Executing task: 4
+[2026-03-23 11:29:56] [error] Failed to send results: 0
+[2026-03-23 11:29:56] [info] Executing task: 1
+[2026-03-23 11:29:56] [error] Failed to send results: 0
+[2026-03-23 11:29:56] [info] Executing task: 2
+[2026-03-23 11:29:56] [error] Failed to send results: 0
+[2026-03-23 11:29:56] [info] Executing task: 3
+[2026-03-23 11:29:56] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 11:29:56] [error] Failed to send results: 0
+[2026-03-23 11:29:56] [info] Failed to get server tasks: 0
+[2026-03-23 11:30:26] [info] Executing task: 4
+[2026-03-23 11:30:26] [error] Failed to send results: 0
+[2026-03-23 11:30:26] [info] Executing task: 1
+[2026-03-23 11:30:26] [error] Failed to send results: 0
+[2026-03-23 11:30:26] [info] Executing task: 2
+[2026-03-23 11:30:26] [error] Failed to send results: 0
+[2026-03-23 11:30:26] [info] Executing task: 3
+[2026-03-23 11:30:26] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 11:30:26] [error] Failed to send results: 0
+[2026-03-23 11:30:26] [info] Failed to get server tasks: 0
+[2026-03-23 11:30:56] [info] Executing task: 4
+[2026-03-23 11:30:56] [error] Failed to send results: 0
+[2026-03-23 11:30:56] [info] Executing task: 1
+[2026-03-23 11:30:56] [error] Failed to send results: 0
+[2026-03-23 11:30:56] [info] Executing task: 2
+[2026-03-23 11:30:56] [error] Failed to send results: 0
+[2026-03-23 11:30:56] [info] Executing task: 3
+[2026-03-23 11:30:56] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 11:30:56] [error] Failed to send results: 0
+[2026-03-23 11:30:56] [info] Failed to get server tasks: 0
+[2026-03-23 11:31:26] [info] Executing task: 4
+[2026-03-23 11:31:26] [error] Failed to send results: 0
+[2026-03-23 11:31:26] [info] Executing task: 1
+[2026-03-23 11:31:26] [error] Failed to send results: 0
+[2026-03-23 11:31:26] [info] Executing task: 2
+[2026-03-23 11:31:26] [error] Failed to send results: 0
+[2026-03-23 11:31:26] [info] Executing task: 3
+[2026-03-23 11:31:26] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 11:31:26] [error] Failed to send results: 0
+[2026-03-23 11:31:26] [info] Failed to get server tasks: 0
+[2026-03-23 11:59:43] [info] Executing task: 4
+[2026-03-23 11:59:43] [error] Failed to send results: 0
+[2026-03-23 11:59:43] [info] Executing task: 1
+[2026-03-23 11:59:43] [error] Failed to send results: 0
+[2026-03-23 11:59:43] [info] Executing task: 2
+[2026-03-23 11:59:43] [error] Failed to send results: 0
+[2026-03-23 11:59:43] [info] Executing task: 3
+[2026-03-23 11:59:43] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 11:59:43] [error] Failed to send results: 0
+[2026-03-23 11:59:43] [info] Failed to get server tasks: 0
+[2026-03-23 12:00:13] [info] Executing task: 4
+[2026-03-23 12:00:13] [error] Failed to send results: 0
+[2026-03-23 12:00:13] [info] Executing task: 1
+[2026-03-23 12:00:13] [error] Failed to send results: 0
+[2026-03-23 12:00:13] [info] Executing task: 2
+[2026-03-23 12:00:13] [error] Failed to send results: 0
+[2026-03-23 12:00:13] [info] Executing task: 3
+[2026-03-23 12:00:13] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 12:00:13] [error] Failed to send results: 0
+[2026-03-23 12:00:13] [info] Failed to get server tasks: 0
+[2026-03-23 12:00:42] [info] Executing task: 4
+[2026-03-23 12:00:42] [error] Failed to send results: 0
+[2026-03-23 12:00:42] [info] Executing task: 1
+[2026-03-23 12:00:42] [error] Failed to send results: 0
+[2026-03-23 12:00:42] [info] Executing task: 2
+[2026-03-23 12:00:42] [error] Failed to send results: 0
+[2026-03-23 12:00:42] [info] Executing task: 3
+[2026-03-23 12:00:42] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 12:00:42] [error] Failed to send results: 0
+[2026-03-23 12:00:42] [info] Failed to get server tasks: 0
+[2026-03-23 12:01:12] [info] Executing task: 4
+[2026-03-23 12:01:12] [error] Failed to send results: 0
+[2026-03-23 12:01:12] [info] Executing task: 1
+[2026-03-23 12:01:12] [error] Failed to send results: 0
+[2026-03-23 12:01:12] [info] Executing task: 2
+[2026-03-23 12:01:12] [error] Failed to send results: 0
+[2026-03-23 12:01:12] [info] Executing task: 3
+[2026-03-23 12:01:12] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 12:01:12] [error] Failed to send results: 0
+[2026-03-23 12:01:12] [info] Failed to get server tasks: 0
+[2026-03-23 12:01:41] [info] Executing task: 4
+[2026-03-23 12:01:41] [error] Failed to send results: 0
+[2026-03-23 12:01:41] [info] Executing task: 1
+[2026-03-23 12:01:41] [error] Failed to send results: 0
+[2026-03-23 12:01:41] [info] Executing task: 2
+[2026-03-23 12:01:41] [error] Failed to send results: 0
+[2026-03-23 12:01:41] [info] Executing task: 3
+[2026-03-23 12:01:41] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 12:01:41] [error] Failed to send results: 0
+[2026-03-23 12:01:41] [info] Failed to get server tasks: 0
+[2026-03-23 12:02:11] [info] Executing task: 4
+[2026-03-23 12:02:11] [error] Failed to send results: 0
+[2026-03-23 12:02:11] [info] Executing task: 1
+[2026-03-23 12:02:11] [error] Failed to send results: 0
+[2026-03-23 12:02:11] [info] Executing task: 2
+[2026-03-23 12:02:11] [error] Failed to send results: 0
+[2026-03-23 12:02:11] [info] Executing task: 3
+[2026-03-23 12:02:11] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 12:02:11] [error] Failed to send results: 0
+[2026-03-23 12:02:11] [info] Failed to get server tasks: 0
+[2026-03-23 12:02:40] [info] Executing task: 4
+[2026-03-23 12:02:40] [error] Failed to send results: 0
+[2026-03-23 12:02:40] [info] Executing task: 1
+[2026-03-23 12:02:40] [error] Failed to send results: 0
+[2026-03-23 12:02:40] [info] Executing task: 2
+[2026-03-23 12:02:40] [error] Failed to send results: 0
+[2026-03-23 12:02:40] [info] Executing task: 3
+[2026-03-23 12:02:40] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 12:02:40] [error] Failed to send results: 0
+[2026-03-23 12:02:40] [info] Failed to get server tasks: 0
+[2026-03-23 12:03:10] [info] Executing task: 4
+[2026-03-23 12:03:10] [error] Failed to send results: 0
+[2026-03-23 12:03:10] [info] Executing task: 1
+[2026-03-23 12:03:10] [error] Failed to send results: 0
+[2026-03-23 12:03:10] [info] Executing task: 2
+[2026-03-23 12:03:10] [error] Failed to send results: 0
+[2026-03-23 12:03:10] [info] Executing task: 3
+[2026-03-23 12:03:10] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 12:03:10] [error] Failed to send results: 0
+[2026-03-23 12:03:10] [info] Failed to get server tasks: 0
+[2026-03-23 12:03:39] [info] Executing task: 4
+[2026-03-23 12:03:39] [error] Failed to send results: 0
+[2026-03-23 12:03:39] [info] Executing task: 1
+[2026-03-23 12:03:39] [error] Failed to send results: 0
+[2026-03-23 12:03:39] [info] Executing task: 2
+[2026-03-23 12:03:39] [error] Failed to send results: 0
+[2026-03-23 12:03:39] [info] Executing task: 3
+[2026-03-23 12:03:39] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 12:03:39] [error] Failed to send results: 0
+[2026-03-23 12:03:39] [info] Failed to get server tasks: 0
+[2026-03-23 12:04:08] [info] Executing task: 4
+[2026-03-23 12:04:08] [error] Failed to send results: 0
+[2026-03-23 12:04:08] [info] Executing task: 1
+[2026-03-23 12:04:08] [error] Failed to send results: 0
+[2026-03-23 12:04:08] [info] Executing task: 2
+[2026-03-23 12:04:08] [error] Failed to send results: 0
+[2026-03-23 12:04:08] [info] Executing task: 3
+[2026-03-23 12:04:08] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 12:04:08] [error] Failed to send results: 0
+[2026-03-23 12:04:08] [info] Failed to get server tasks: 0
+[2026-03-23 12:04:38] [info] Executing task: 4
+[2026-03-23 12:04:38] [error] Failed to send results: 0
+[2026-03-23 12:04:38] [info] Executing task: 1
+[2026-03-23 12:04:38] [error] Failed to send results: 0
+[2026-03-23 12:04:38] [info] Executing task: 2
+[2026-03-23 12:04:38] [error] Failed to send results: 0
+[2026-03-23 12:04:38] [info] Executing task: 3
+[2026-03-23 12:04:38] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 12:04:38] [error] Failed to send results: 0
+[2026-03-23 12:04:38] [info] Failed to get server tasks: 0
+[2026-03-23 12:05:07] [info] Executing task: 4
+[2026-03-23 12:05:07] [error] Failed to send results: 0
+[2026-03-23 12:05:07] [info] Executing task: 1
+[2026-03-23 12:05:07] [error] Failed to send results: 0
+[2026-03-23 12:05:07] [info] Executing task: 2
+[2026-03-23 12:05:07] [error] Failed to send results: 0
+[2026-03-23 12:05:07] [info] Executing task: 3
+[2026-03-23 12:05:07] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 12:05:07] [error] Failed to send results: 0
+[2026-03-23 12:05:07] [info] Failed to get server tasks: 0
+[2026-03-23 12:05:37] [info] Executing task: 4
+[2026-03-23 12:05:37] [error] Failed to send results: 0
+[2026-03-23 12:05:37] [info] Executing task: 1
+[2026-03-23 12:05:37] [error] Failed to send results: 0
+[2026-03-23 12:05:37] [info] Executing task: 2
+[2026-03-23 12:05:37] [error] Failed to send results: 0
+[2026-03-23 12:05:37] [info] Executing task: 3
+[2026-03-23 12:05:37] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 12:05:37] [error] Failed to send results: 0
+[2026-03-23 12:05:37] [info] Failed to get server tasks: 0
+[2026-03-23 12:06:07] [info] Executing task: 4
+[2026-03-23 12:06:07] [error] Failed to send results: 0
+[2026-03-23 12:06:07] [info] Executing task: 1
+[2026-03-23 12:06:07] [error] Failed to send results: 0
+[2026-03-23 12:06:07] [info] Executing task: 2
+[2026-03-23 12:06:07] [error] Failed to send results: 0
+[2026-03-23 12:06:07] [info] Executing task: 3
+[2026-03-23 12:06:07] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 12:06:07] [error] Failed to send results: 0
+[2026-03-23 12:06:07] [info] Failed to get server tasks: 0
+[2026-03-23 12:06:36] [info] Executing task: 4
+[2026-03-23 12:06:36] [error] Failed to send results: 0
+[2026-03-23 12:06:36] [info] Executing task: 1
+[2026-03-23 12:06:36] [error] Failed to send results: 0
+[2026-03-23 12:06:36] [info] Executing task: 2
+[2026-03-23 12:06:36] [error] Failed to send results: 0
+[2026-03-23 12:06:36] [info] Executing task: 3
+[2026-03-23 12:06:36] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 12:06:36] [error] Failed to send results: 0
+[2026-03-23 12:06:36] [info] Failed to get server tasks: 0
+[2026-03-23 12:07:06] [info] Executing task: 4
+[2026-03-23 12:07:06] [error] Failed to send results: 0
+[2026-03-23 12:07:06] [info] Executing task: 1
+[2026-03-23 12:07:06] [error] Failed to send results: 0
+[2026-03-23 12:07:06] [info] Executing task: 2
+[2026-03-23 12:07:06] [error] Failed to send results: 0
+[2026-03-23 12:07:06] [info] Executing task: 3
+[2026-03-23 12:07:06] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 12:07:06] [error] Failed to send results: 0
+[2026-03-23 12:07:06] [info] Failed to get server tasks: 0
+[2026-03-23 12:07:35] [info] Executing task: 4
+[2026-03-23 12:07:35] [error] Failed to send results: 0
+[2026-03-23 12:07:35] [info] Executing task: 1
+[2026-03-23 12:07:35] [error] Failed to send results: 0
+[2026-03-23 12:07:35] [info] Executing task: 2
+[2026-03-23 12:07:35] [error] Failed to send results: 0
+[2026-03-23 12:07:35] [info] Executing task: 3
+[2026-03-23 12:07:35] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 12:07:35] [error] Failed to send results: 0
+[2026-03-23 12:07:35] [info] Failed to get server tasks: 0
+[2026-03-23 12:08:04] [info] Executing task: 4
+[2026-03-23 12:08:04] [error] Failed to send results: 0
+[2026-03-23 12:08:04] [info] Executing task: 1
+[2026-03-23 12:08:04] [error] Failed to send results: 0
+[2026-03-23 12:08:04] [info] Executing task: 2
+[2026-03-23 12:08:04] [error] Failed to send results: 0
+[2026-03-23 12:08:04] [info] Executing task: 3
+[2026-03-23 12:08:04] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 12:08:04] [error] Failed to send results: 0
+[2026-03-23 12:08:04] [info] Failed to get server tasks: 0
+[2026-03-23 12:08:34] [info] Executing task: 4
+[2026-03-23 12:08:34] [error] Failed to send results: 0
+[2026-03-23 12:08:34] [info] Executing task: 1
+[2026-03-23 12:08:34] [error] Failed to send results: 0
+[2026-03-23 12:08:34] [info] Executing task: 2
+[2026-03-23 12:08:34] [error] Failed to send results: 0
+[2026-03-23 12:08:34] [info] Executing task: 3
+[2026-03-23 12:08:34] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 12:08:34] [error] Failed to send results: 0
+[2026-03-23 12:08:34] [info] Failed to get server tasks: 0
+[2026-03-23 12:09:03] [info] Executing task: 4
+[2026-03-23 12:09:03] [error] Failed to send results: 0
+[2026-03-23 12:09:03] [info] Executing task: 1
+[2026-03-23 12:09:03] [error] Failed to send results: 0
+[2026-03-23 12:09:03] [info] Executing task: 2
+[2026-03-23 12:09:03] [error] Failed to send results: 0
+[2026-03-23 12:09:03] [info] Executing task: 3
+[2026-03-23 12:09:03] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 12:09:03] [error] Failed to send results: 0
+[2026-03-23 12:09:03] [info] Failed to get server tasks: 0
+[2026-03-23 12:09:33] [info] Executing task: 4
+[2026-03-23 12:09:33] [error] Failed to send results: 0
+[2026-03-23 12:09:33] [info] Executing task: 1
+[2026-03-23 12:09:33] [error] Failed to send results: 0
+[2026-03-23 12:09:33] [info] Executing task: 2
+[2026-03-23 12:09:33] [error] Failed to send results: 0
+[2026-03-23 12:09:33] [info] Executing task: 3
+[2026-03-23 12:09:33] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 12:09:33] [error] Failed to send results: 0
+[2026-03-23 12:09:33] [info] Failed to get server tasks: 0
+[2026-03-23 12:10:02] [info] Executing task: 4
+[2026-03-23 12:10:02] [error] Failed to send results: 0
+[2026-03-23 12:10:02] [info] Executing task: 1
+[2026-03-23 12:10:02] [error] Failed to send results: 0
+[2026-03-23 12:10:02] [info] Executing task: 2
+[2026-03-23 12:10:02] [error] Failed to send results: 0
+[2026-03-23 12:10:02] [info] Executing task: 3
+[2026-03-23 12:10:02] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 12:10:02] [error] Failed to send results: 0
+[2026-03-23 12:10:02] [info] Failed to get server tasks: 0
+[2026-03-23 12:10:32] [info] Executing task: 4
+[2026-03-23 12:10:32] [error] Failed to send results: 0
+[2026-03-23 12:10:32] [info] Executing task: 1
+[2026-03-23 12:10:32] [error] Failed to send results: 0
+[2026-03-23 12:10:32] [info] Executing task: 2
+[2026-03-23 12:10:32] [error] Failed to send results: 0
+[2026-03-23 12:10:32] [info] Executing task: 3
+[2026-03-23 12:10:32] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 12:10:32] [error] Failed to send results: 0
+[2026-03-23 12:10:32] [info] Failed to get server tasks: 0
+[2026-03-23 12:11:01] [info] Executing task: 4
+[2026-03-23 12:11:01] [error] Failed to send results: 0
+[2026-03-23 12:11:01] [info] Executing task: 1
+[2026-03-23 12:11:01] [error] Failed to send results: 0
+[2026-03-23 12:11:01] [info] Executing task: 2
+[2026-03-23 12:11:01] [error] Failed to send results: 0
+[2026-03-23 12:11:01] [info] Executing task: 3
+[2026-03-23 12:11:01] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 12:11:01] [error] Failed to send results: 0
+[2026-03-23 12:11:01] [info] Failed to get server tasks: 0
+[2026-03-23 12:11:30] [info] Executing task: 4
+[2026-03-23 12:11:30] [error] Failed to send results: 0
+[2026-03-23 12:11:30] [info] Executing task: 1
+[2026-03-23 12:11:30] [error] Failed to send results: 0
+[2026-03-23 12:11:30] [info] Executing task: 2
+[2026-03-23 12:11:30] [error] Failed to send results: 0
+[2026-03-23 12:11:30] [info] Executing task: 3
+[2026-03-23 12:11:30] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 12:11:30] [error] Failed to send results: 0
+[2026-03-23 12:11:30] [info] Failed to get server tasks: 0
+[2026-03-23 12:12:00] [info] Executing task: 4
+[2026-03-23 12:12:00] [error] Failed to send results: 0
+[2026-03-23 12:12:00] [info] Executing task: 1
+[2026-03-23 12:12:00] [error] Failed to send results: 0
+[2026-03-23 12:12:00] [info] Executing task: 2
+[2026-03-23 12:12:00] [error] Failed to send results: 0
+[2026-03-23 12:12:00] [info] Executing task: 3
+[2026-03-23 12:12:00] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 12:12:00] [error] Failed to send results: 0
+[2026-03-23 12:12:00] [info] Failed to get server tasks: 0
+[2026-03-23 12:12:30] [info] Executing task: 4
+[2026-03-23 12:12:30] [error] Failed to send results: 0
+[2026-03-23 12:12:30] [info] Executing task: 1
+[2026-03-23 12:12:30] [error] Failed to send results: 0
+[2026-03-23 12:12:30] [info] Executing task: 2
+[2026-03-23 12:12:30] [error] Failed to send results: 0
+[2026-03-23 12:12:30] [info] Executing task: 3
+[2026-03-23 12:12:30] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 12:12:30] [error] Failed to send results: 0
+[2026-03-23 12:12:30] [info] Failed to get server tasks: 0
+[2026-03-23 12:12:59] [info] Executing task: 4
+[2026-03-23 12:12:59] [error] Failed to send results: 0
+[2026-03-23 12:12:59] [info] Executing task: 1
+[2026-03-23 12:12:59] [error] Failed to send results: 0
+[2026-03-23 12:12:59] [info] Executing task: 2
+[2026-03-23 12:12:59] [error] Failed to send results: 0
+[2026-03-23 12:12:59] [info] Executing task: 3
+[2026-03-23 12:12:59] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 12:12:59] [error] Failed to send results: 0
+[2026-03-23 12:12:59] [info] Failed to get server tasks: 0
+[2026-03-23 12:13:29] [info] Executing task: 4
+[2026-03-23 12:13:29] [error] Failed to send results: 0
+[2026-03-23 12:13:29] [info] Executing task: 1
+[2026-03-23 12:13:29] [error] Failed to send results: 0
+[2026-03-23 12:13:29] [info] Executing task: 2
+[2026-03-23 12:13:29] [error] Failed to send results: 0
+[2026-03-23 12:13:29] [info] Executing task: 3
+[2026-03-23 12:13:29] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 12:13:29] [error] Failed to send results: 0
+[2026-03-23 12:13:29] [info] Failed to get server tasks: 0
+[2026-03-23 12:13:58] [info] Executing task: 4
+[2026-03-23 12:13:58] [error] Failed to send results: 0
+[2026-03-23 12:13:58] [info] Executing task: 1
+[2026-03-23 12:13:58] [error] Failed to send results: 0
+[2026-03-23 12:13:58] [info] Executing task: 2
+[2026-03-23 12:13:58] [error] Failed to send results: 0
+[2026-03-23 12:13:58] [info] Executing task: 3
+[2026-03-23 12:13:58] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 12:13:58] [error] Failed to send results: 0
+[2026-03-23 12:13:58] [info] Failed to get server tasks: 0
+[2026-03-23 12:14:27] [info] Executing task: 4
+[2026-03-23 12:14:27] [error] Failed to send results: 0
+[2026-03-23 12:14:27] [info] Executing task: 1
+[2026-03-23 12:14:27] [error] Failed to send results: 0
+[2026-03-23 12:14:27] [info] Executing task: 2
+[2026-03-23 12:14:27] [error] Failed to send results: 0
+[2026-03-23 12:14:27] [info] Executing task: 3
+[2026-03-23 12:14:27] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 12:14:27] [error] Failed to send results: 0
+[2026-03-23 12:14:27] [info] Failed to get server tasks: 0
+[2026-03-23 12:14:57] [info] Executing task: 4
+[2026-03-23 12:14:57] [error] Failed to send results: 0
+[2026-03-23 12:14:57] [info] Executing task: 1
+[2026-03-23 12:14:57] [error] Failed to send results: 0
+[2026-03-23 12:14:57] [info] Executing task: 2
+[2026-03-23 12:14:57] [error] Failed to send results: 0
+[2026-03-23 12:14:57] [info] Executing task: 3
+[2026-03-23 12:14:57] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 12:14:57] [error] Failed to send results: 0
+[2026-03-23 12:14:57] [info] Failed to get server tasks: 0
+[2026-03-23 12:15:26] [info] Executing task: 4
+[2026-03-23 12:15:26] [error] Failed to send results: 0
+[2026-03-23 12:15:26] [info] Executing task: 1
+[2026-03-23 12:15:26] [error] Failed to send results: 0
+[2026-03-23 12:15:26] [info] Executing task: 2
+[2026-03-23 12:15:26] [error] Failed to send results: 0
+[2026-03-23 12:15:26] [info] Executing task: 3
+[2026-03-23 12:15:26] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 12:15:26] [error] Failed to send results: 0
+[2026-03-23 12:15:26] [info] Failed to get server tasks: 0
+[2026-03-23 12:15:55] [info] Executing task: 4
+[2026-03-23 12:15:55] [error] Failed to send results: 0
+[2026-03-23 12:15:55] [info] Executing task: 1
+[2026-03-23 12:15:55] [error] Failed to send results: 0
+[2026-03-23 12:15:55] [info] Executing task: 2
+[2026-03-23 12:15:55] [error] Failed to send results: 0
+[2026-03-23 12:15:55] [info] Executing task: 3
+[2026-03-23 12:15:55] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 12:15:55] [error] Failed to send results: 0
+[2026-03-23 12:15:55] [info] Failed to get server tasks: 0
+[2026-03-23 12:16:25] [info] Executing task: 4
+[2026-03-23 12:16:25] [error] Failed to send results: 0
+[2026-03-23 12:16:25] [info] Executing task: 1
+[2026-03-23 12:16:25] [error] Failed to send results: 0
+[2026-03-23 12:16:25] [info] Executing task: 2
+[2026-03-23 12:16:25] [error] Failed to send results: 0
+[2026-03-23 12:16:25] [info] Executing task: 3
+[2026-03-23 12:16:25] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 12:16:25] [error] Failed to send results: 0
+[2026-03-23 12:16:25] [info] Failed to get server tasks: 0
+[2026-03-23 12:16:54] [info] Executing task: 4
+[2026-03-23 12:16:54] [error] Failed to send results: 0
+[2026-03-23 12:16:54] [info] Executing task: 1
+[2026-03-23 12:16:54] [error] Failed to send results: 0
+[2026-03-23 12:16:54] [info] Executing task: 2
+[2026-03-23 12:16:54] [error] Failed to send results: 0
+[2026-03-23 12:16:54] [info] Executing task: 3
+[2026-03-23 12:16:54] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 12:16:54] [error] Failed to send results: 0
+[2026-03-23 12:16:54] [info] Failed to get server tasks: 0
+[2026-03-23 12:17:23] [info] Executing task: 4
+[2026-03-23 12:17:23] [error] Failed to send results: 0
+[2026-03-23 12:17:23] [info] Executing task: 1
+[2026-03-23 12:17:23] [error] Failed to send results: 0
+[2026-03-23 12:17:23] [info] Executing task: 2
+[2026-03-23 12:17:23] [error] Failed to send results: 0
+[2026-03-23 12:17:23] [info] Executing task: 3
+[2026-03-23 12:17:23] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 12:17:23] [error] Failed to send results: 0
+[2026-03-23 12:17:23] [info] Failed to get server tasks: 0
+[2026-03-23 12:17:53] [info] Executing task: 4
+[2026-03-23 12:17:53] [error] Failed to send results: 0
+[2026-03-23 12:17:53] [info] Executing task: 1
+[2026-03-23 12:17:53] [error] Failed to send results: 0
+[2026-03-23 12:17:53] [info] Executing task: 2
+[2026-03-23 12:17:53] [error] Failed to send results: 0
+[2026-03-23 12:17:53] [info] Executing task: 3
+[2026-03-23 12:17:53] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 12:17:53] [error] Failed to send results: 0
+[2026-03-23 12:17:53] [info] Failed to get server tasks: 0
+[2026-03-23 12:18:22] [info] Executing task: 4
+[2026-03-23 12:18:22] [error] Failed to send results: 0
+[2026-03-23 12:18:22] [info] Executing task: 1
+[2026-03-23 12:18:22] [error] Failed to send results: 0
+[2026-03-23 12:18:22] [info] Executing task: 2
+[2026-03-23 12:18:22] [error] Failed to send results: 0
+[2026-03-23 12:18:22] [info] Executing task: 3
+[2026-03-23 12:18:22] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 12:18:22] [error] Failed to send results: 0
+[2026-03-23 12:18:22] [info] Failed to get server tasks: 0
+[2026-03-23 12:18:51] [info] Executing task: 4
+[2026-03-23 12:18:51] [error] Failed to send results: 0
+[2026-03-23 12:18:51] [info] Executing task: 1
+[2026-03-23 12:18:51] [error] Failed to send results: 0
+[2026-03-23 12:18:51] [info] Executing task: 2
+[2026-03-23 12:18:51] [error] Failed to send results: 0
+[2026-03-23 12:18:51] [info] Executing task: 3
+[2026-03-23 12:18:51] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 12:18:51] [error] Failed to send results: 0
+[2026-03-23 12:18:51] [info] Failed to get server tasks: 0
+[2026-03-23 12:19:21] [info] Executing task: 4
+[2026-03-23 12:19:21] [error] Failed to send results: 0
+[2026-03-23 12:19:21] [info] Executing task: 1
+[2026-03-23 12:19:21] [error] Failed to send results: 0
+[2026-03-23 12:19:21] [info] Executing task: 2
+[2026-03-23 12:19:21] [error] Failed to send results: 0
+[2026-03-23 12:19:21] [info] Executing task: 3
+[2026-03-23 12:19:21] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 12:19:21] [error] Failed to send results: 0
+[2026-03-23 12:19:21] [info] Failed to get server tasks: 0
+[2026-03-23 12:19:51] [info] Executing task: 4
+[2026-03-23 12:19:51] [error] Failed to send results: 0
+[2026-03-23 12:19:51] [info] Executing task: 1
+[2026-03-23 12:19:51] [error] Failed to send results: 0
+[2026-03-23 12:19:51] [info] Executing task: 2
+[2026-03-23 12:19:51] [error] Failed to send results: 0
+[2026-03-23 12:19:51] [info] Executing task: 3
+[2026-03-23 12:19:51] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 12:19:51] [error] Failed to send results: 0
+[2026-03-23 12:19:51] [info] Failed to get server tasks: 0
+[2026-03-23 12:20:20] [info] Executing task: 4
+[2026-03-23 12:20:20] [error] Failed to send results: 0
+[2026-03-23 12:20:20] [info] Executing task: 1
+[2026-03-23 12:20:20] [error] Failed to send results: 0
+[2026-03-23 12:20:20] [info] Executing task: 2
+[2026-03-23 12:20:20] [error] Failed to send results: 0
+[2026-03-23 12:20:20] [info] Executing task: 3
+[2026-03-23 12:20:20] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 12:20:20] [error] Failed to send results: 0
+[2026-03-23 12:20:20] [info] Failed to get server tasks: 0
+[2026-03-23 12:20:49] [info] Executing task: 4
+[2026-03-23 12:20:49] [error] Failed to send results: 0
+[2026-03-23 12:20:49] [info] Executing task: 1
+[2026-03-23 12:20:49] [error] Failed to send results: 0
+[2026-03-23 12:20:49] [info] Executing task: 2
+[2026-03-23 12:20:49] [error] Failed to send results: 0
+[2026-03-23 12:20:49] [info] Executing task: 3
+[2026-03-23 12:20:49] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 12:20:49] [error] Failed to send results: 0
+[2026-03-23 12:20:49] [info] Failed to get server tasks: 0
+[2026-03-23 12:21:19] [info] Executing task: 4
+[2026-03-23 12:21:19] [error] Failed to send results: 0
+[2026-03-23 12:21:19] [info] Executing task: 1
+[2026-03-23 12:21:19] [error] Failed to send results: 0
+[2026-03-23 12:21:19] [info] Executing task: 2
+[2026-03-23 12:21:19] [error] Failed to send results: 0
+[2026-03-23 12:21:19] [info] Executing task: 3
+[2026-03-23 12:21:19] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 12:21:19] [error] Failed to send results: 0
+[2026-03-23 12:21:19] [info] Failed to get server tasks: 0
+[2026-03-23 12:21:48] [info] Executing task: 4
+[2026-03-23 12:21:48] [error] Failed to send results: 0
+[2026-03-23 12:21:48] [info] Executing task: 1
+[2026-03-23 12:21:48] [error] Failed to send results: 0
+[2026-03-23 12:21:48] [info] Executing task: 2
+[2026-03-23 12:21:48] [error] Failed to send results: 0
+[2026-03-23 12:21:48] [info] Executing task: 3
+[2026-03-23 12:21:48] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 12:21:48] [error] Failed to send results: 0
+[2026-03-23 12:21:48] [info] Failed to get server tasks: 0
+[2026-03-23 12:22:17] [info] Executing task: 4
+[2026-03-23 12:22:17] [error] Failed to send results: 0
+[2026-03-23 12:22:17] [info] Executing task: 1
+[2026-03-23 12:22:17] [error] Failed to send results: 0
+[2026-03-23 12:22:17] [info] Executing task: 2
+[2026-03-23 12:22:17] [error] Failed to send results: 0
+[2026-03-23 12:22:17] [info] Executing task: 3
+[2026-03-23 12:22:17] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 12:22:17] [error] Failed to send results: 0
+[2026-03-23 12:22:17] [info] Failed to get server tasks: 0
+[2026-03-23 12:22:47] [info] Executing task: 4
+[2026-03-23 12:22:47] [error] Failed to send results: 0
+[2026-03-23 12:22:47] [info] Executing task: 1
+[2026-03-23 12:22:47] [error] Failed to send results: 0
+[2026-03-23 12:22:47] [info] Executing task: 2
+[2026-03-23 12:22:47] [error] Failed to send results: 0
+[2026-03-23 12:22:47] [info] Executing task: 3
+[2026-03-23 12:22:47] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 12:22:47] [error] Failed to send results: 0
+[2026-03-23 12:22:47] [info] Failed to get server tasks: 0
+[2026-03-23 12:23:16] [info] Executing task: 4
+[2026-03-23 12:23:16] [error] Failed to send results: 0
+[2026-03-23 12:23:16] [info] Executing task: 1
+[2026-03-23 12:23:16] [error] Failed to send results: 0
+[2026-03-23 12:23:16] [info] Executing task: 2
+[2026-03-23 12:23:16] [error] Failed to send results: 0
+[2026-03-23 12:23:16] [info] Executing task: 3
+[2026-03-23 12:23:16] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 12:23:16] [error] Failed to send results: 0
+[2026-03-23 12:23:16] [info] Failed to get server tasks: 0
+[2026-03-23 12:23:45] [info] Executing task: 4
+[2026-03-23 12:23:45] [error] Failed to send results: 0
+[2026-03-23 12:23:45] [info] Executing task: 1
+[2026-03-23 12:23:45] [error] Failed to send results: 0
+[2026-03-23 12:23:45] [info] Executing task: 2
+[2026-03-23 12:23:45] [error] Failed to send results: 0
+[2026-03-23 12:23:45] [info] Executing task: 3
+[2026-03-23 12:23:45] [error] Copy failed: filesystem error: cannot copy file: No such file or directory [./results/report.csv] [/backup/results/]
+[2026-03-23 12:23:45] [error] Failed to send results: 0
+[2026-03-23 12:23:45] [info] Failed to get server tasks: 0

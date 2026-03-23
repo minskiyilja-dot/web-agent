@@ -1,0 +1,6 @@
+{
+  "task_id": "4",
+  "type": "upload_file",
+  "file_path": "./results/output.txt",
+  "server_endpoint": "/api/upload"
+}
