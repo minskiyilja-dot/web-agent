@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/web_agent.dir/src/agent.cpp.o CMakeFiles/web_agent.dir/lib/inih/ini.c.o -o web_agent  -lpthread -lstdc++fs 

@@ -1,0 +1,159 @@
+Start testing: Apr 06 12:39 MSK
+----------------------------------------------------------
+1/8 Testing: test_config
+1/8 Test: test_config
+Command: "/home/user/web-agent/build_tests/tests/test_config"
+Directory: /home/user/web-agent/build_tests/tests
+"test_config" start time: Apr 06 12:39 MSK
+Output:
+----------------------------------------------------------
+Config test OK
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test_config" end time: Apr 06 12:39 MSK
+"test_config" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/8 Testing: test_http
+2/8 Test: test_http
+Command: "/home/user/web-agent/build_tests/tests/test_http"
+Directory: /home/user/web-agent/build_tests/tests
+"test_http" start time: Apr 06 12:39 MSK
+Output:
+----------------------------------------------------------
+OK
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test_http" end time: Apr 06 12:39 MSK
+"test_http" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/8 Testing: test_logger
+3/8 Test: test_logger
+Command: "/home/user/web-agent/build_tests/tests/test_logger"
+Directory: /home/user/web-agent/build_tests/tests
+"test_logger" start time: Apr 06 12:39 MSK
+Output:
+----------------------------------------------------------
+OK
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test_logger" end time: Apr 06 12:39 MSK
+"test_logger" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/8 Testing: test_main
+4/8 Test: test_main
+Command: "/home/user/web-agent/build_tests/tests/test_main"
+Directory: /home/user/web-agent/build_tests/tests
+"test_main" start time: Apr 06 12:39 MSK
+Output:
+----------------------------------------------------------
+Config test OK
+OK
+OK
+OK
+OK
+Passed: 5 Failed: 0
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_main" end time: Apr 06 12:39 MSK
+"test_main" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/8 Testing: test_parser
+5/8 Test: test_parser
+Command: "/home/user/web-agent/build_tests/tests/test_parser"
+Directory: /home/user/web-agent/build_tests/tests
+"test_parser" start time: Apr 06 12:39 MSK
+Output:
+----------------------------------------------------------
+OK
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test_parser" end time: Apr 06 12:39 MSK
+"test_parser" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/8 Testing: test_real_webagent
+6/8 Test: test_real_webagent
+Command: "/home/user/web-agent/build_tests/tests/test_real_webagent"
+Directory: /home/user/web-agent/build_tests/tests
+"test_real_webagent" start time: Apr 06 12:39 MSK
+Output:
+----------------------------------------------------------
+
+=== REAL WebAgent Test ===
+
+Test 1: copy existing file... OK
+Test 2: copy nonexistent file... OK
+Test 3: unknown task type... OK
+Test 4: missing type field... OK
+
+=== Results ===
+Passed: 4
+Failed: 0
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test_real_webagent" end time: Apr 06 12:39 MSK
+"test_real_webagent" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/8 Testing: test_task
+7/8 Test: test_task
+Command: "/home/user/web-agent/build_tests/tests/test_task"
+Directory: /home/user/web-agent/build_tests/tests
+"test_task" start time: Apr 06 12:39 MSK
+Output:
+----------------------------------------------------------
+OK
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test_task" end time: Apr 06 12:39 MSK
+"test_task" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/8 Testing: test_tasks_lifecycle
+8/8 Test: test_tasks_lifecycle
+Command: "/home/user/web-agent/build_tests/tests/test_tasks_lifecycle"
+Directory: /home/user/web-agent/build_tests/tests
+"test_tasks_lifecycle" start time: Apr 06 12:39 MSK
+Output:
+----------------------------------------------------------
+
+=== TASKS LIFECYCLE TEST ===
+
+Test 1: Add task... OK
+Test 2: Execute task... OK
+Test 3: Add multiple tasks... OK
+Test 4: Delete task... OK
+Test 5: Delete nonexistent task... OK
+Test 6: Execute remaining tasks... OK
+Test 7: Delete all tasks... OK
+
+=== RESULTS ===
+Passed: 7
+Failed: 0
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_tasks_lifecycle" end time: Apr 06 12:39 MSK
+"test_tasks_lifecycle" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 06 12:39 MSK

@@ -83,5 +83,13 @@ message(STATUS "Build type: ${CMAKE_BUILD_TYPE}")
 message(STATUS "Source dir: ${CMAKE_CURRENT_SOURCE_DIR}")
 message(STATUS "Binary dir: ${CMAKE_CURRENT_BINARY_DIR}")
 
+# ... ваш существующий CMakeLists.txt ...
 
+# Добавляем тесты
+option(BUILD_TESTS "Build tests" ON)
+
+if(BUILD_TESTS)
+    add_subdirectory(tests)
+    enable_testing()
+endif()
 

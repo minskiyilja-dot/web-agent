@@ -1,0 +1,9 @@
+test_config 2 0.000995514
+test_http 2 0.000873318
+test_logger 2 0.000927285
+test_main 2 0.00648232
+test_parser 2 0.00196599
+test_real_webagent 2 0.00107867
+test_task 2 0.00133126
+test_tasks_lifecycle 2 0.00254306
+---
